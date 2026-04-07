@@ -1,6 +1,6 @@
 # 使用 Cloudflare Tunnel + Nginx 反代禁漫图片域名
 解决防盗链图片在 freshrss 或手机客户端 Fluent Reader 无法正常显示的问题  
-直接使用 `Cloudflare Worker` 还是会被 CF 盾拦截
+使用 `Cloudflare Worker` 部署会被 CF 盾拦截
 
 ## 环境
 VPS + Docker
